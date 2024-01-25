@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to My Learning Journey Repository! 📚
 
-Hey there! I'm [Mark], a passionate learner and Linux system administrator. 👨‍💻✨
+Hey there! I'm Mark, a passionate learner and Linux system administrator. 👨‍💻✨
 
 ## About Me
 
